@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><
 , I'm Armnajafi (AmirMohammad Najafi)</h1>
 
 <img src="https://profile-counter.glitch.me/armnajafi/count.svg" />
