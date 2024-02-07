@@ -26,7 +26,8 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> </a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C" alt="Typescript"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="REACT.JS"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Android&color=%2361DAFB&style=for-the-badge&logo=android&logoColor=green" alt="Android"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Android&color=green&style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=PHP&color=green&style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
