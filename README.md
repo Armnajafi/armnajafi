@@ -6,8 +6,8 @@
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript</b></p>
-        <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃</b></p>
+        <p>• 📚 I’m currently learning: <b>...</b></p>
+        <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>armnajafi@gmail.com</b></p>
 </div><br>
@@ -38,7 +38,7 @@ ___
 
 <div>
   <h3>📱 Social Medias:</h3><br>
-    <a href="https://www.linkedin.com/in/amirmohammad-najafi-51b9a918a/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
+    <a href="https://www.linkedin.com/in/armnajafi/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
     <a href="https://codepen.io/armnajafi" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Codepen&color=%23000000&style=for-the-badge&logo=codepen&logoColor=whitesmoke" alt="Codepen"></a>
     <a href="https://dev.to/armnajafi"><img src="https://img.shields.io/static/v1?label=&message=DEV&color=%230A0A0A&style=for-the-badge&logo=dev.to" alt="DEV"></a>
     <a href="https://www.instagram.com/armnajafi/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
