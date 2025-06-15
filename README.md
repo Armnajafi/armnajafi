@@ -6,7 +6,7 @@
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>...</b></p>
+        <p>• 📚 I’m currently learning: <b>Microservice Design Patterns</b> & <b>Nest.js</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>armnajafi@gmail.com</b></p>
